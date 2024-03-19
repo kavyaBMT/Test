@@ -1,2 +1,1 @@
-First git repo
-Author:- kavya
+First git repository
